@@ -1,0 +1,4 @@
+python==2.7.12
+spyne==2.12.13
+urllib3==1.18
+simplejson==3.8.2
